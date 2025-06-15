@@ -1,2 +1,2 @@
 # Trial
-This is trial of git and github
+This is trial of git and github.
